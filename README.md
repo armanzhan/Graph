@@ -6,7 +6,7 @@
 
 ## Содержание репозитория:
 * [Код](https://github.com/armanzhan/Graph/blob/main/ML_on_graphs_Kasatkin_Kikenov.ipynb)
-* [Отчёт] (https://github.com/armanzhan/Graph/blob/main/%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%93%D1%80%D0%B0%D1%84%D1%8B_%D0%9A%D0%B8%D0%BA%D0%B5%D0%BD%D0%BE%D0%B2_%D0%9A%D0%B0%D1%81%D0%B0%D1%82%D0%BA%D0%B8%D0%BD.pdf)
+* [Отчёт](https://github.com/armanzhan/Graph/blob/main/%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%93%D1%80%D0%B0%D1%84%D1%8B_%D0%9A%D0%B8%D0%BA%D0%B5%D0%BD%D0%BE%D0%B2_%D0%9A%D0%B0%D1%81%D0%B0%D1%82%D0%BA%D0%B8%D0%BD.pdf)
 
 ## Инструкция по взаимодействию с кодовой базой:
 1. Загрузить файл с кодом в Jupyter Notebook / google colab
